@@ -1,4 +1,4 @@
 {
-  "all": ["hashtags", "mentioned_user"],
-  "last": "mentioned_user"
+  "all": ["hashtags", "mentioned_user", "SCC"],
+  "last": "SCC"
 }
